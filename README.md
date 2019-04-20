@@ -1,4 +1,4 @@
-# Google-Machine-Learning-with-TensorFlow
+# Google Machine Learning with TensorFlow
 Coursera Specialization: Machine Learning with TensorFlow on Google Cloud Platform
 https://www.coursera.org/specializations/machine-learning-tensorflow-gcp
 
